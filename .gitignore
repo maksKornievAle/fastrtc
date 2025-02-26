@@ -18,3 +18,5 @@ demo/scratch
 .DS_Store
 test/
 .venv*
+.idea
+.env
